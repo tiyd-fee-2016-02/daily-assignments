@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Syllabus
 
 With credit to Mason F. Matthews for much of the content.
